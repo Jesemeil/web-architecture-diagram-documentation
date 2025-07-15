@@ -6,7 +6,7 @@
 # **Highly Available and Secure Web Application Deployment on AWS – Architecture Documentation**
 
 
-## 🚀 **1. Overview**
+##  **1. Overview**
 
 This architecture showcases a **resilient, scalable, and secure AWS cloud deployment** of a modern web application. It follows **AWS Well-Architected Framework principles**, enabling secure compute, efficient database access, and seamless autoscaling. The design leverages **multi-AZ redundancy**, **private/public subnet segregation**, and **AWS-managed services** like Secrets Manager for secret retrieval and RDS for data persistence.
 
